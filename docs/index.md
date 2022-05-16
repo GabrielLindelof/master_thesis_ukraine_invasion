@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/GabrielLindelof/master_the
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/main/docs/dendrogram.html) and ![Image](src)
+[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/main/docs/topic_representations.html) 
+[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/main/docs/topics_over_time.html) 
+[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/main/docs/dendrogram.html) 
+[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/main/docs/intertopic_distance.html) 
 
 ### Markdown
 
