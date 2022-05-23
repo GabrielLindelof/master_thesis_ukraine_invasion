@@ -1,6 +1,5 @@
-# Twitter Discourse and Emotions Around the Invasion of Ukraine - A Text Analytics Approach 
 ## Gabriel Lindelöf 
-
+Twitter Discourse and Emotions Around the Invasion of Ukraine - A Text Analytics Approach 
 
 ### Interactive plots
 On the following links you will find interactive plots where you can explore the topics of my thesis. 
