@@ -4,8 +4,15 @@ You can use the [editor on GitHub](https://github.com/GabrielLindelof/master_the
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link](https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/dendrogram.html) 
+[Topics Dendrogram](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/dendrogram.html) 
+[Intertopic Distance](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/intertopic_distance.html) 
+[Topics Over Time](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/topics_over_time.html) 
+[Topic Representations](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/topic_representations.html) 
 
+
+
+
+topics_over_time.html
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
