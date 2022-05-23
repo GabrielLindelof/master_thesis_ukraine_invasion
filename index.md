@@ -1,4 +1,4 @@
-## Gabriel Lindelöf 
+## Companion website
 Twitter Discourse and Emotions Around the Invasion of Ukraine - A Text Analytics Approach 
 
 ### Interactive plots
