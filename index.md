@@ -8,7 +8,7 @@ On the following links you will find interactive plots where you can explore the
 
 [Topic Representations](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/topic_representations.html) shows the most impotant keywords for each topics representation. 
 
-[Topics Over Time](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/topics_over_time.html) shows the popularity of each topic over time, often refered to as a _Dynamic Topic Model_. The values have been normalized to allow easier comparisons between topics. All topics are shown by default which can be messy - double click a topics name to deselect all other topics. Topics can then be added one by one for comparisons. 
+[Topics Over Time](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/topics_over_time.html) shows the popularity of each topic over time, often refered to as a _Dynamic Topic Model_. The values have been normalized to allow easier comparisons between topics. All topics are shown by default which can be messy - double click on a topics name to deselect all other topics. Topics can then be added one by one for comparisons. 
 
 
 [The Dendrogram](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/master_thesis_ukraine_invasion/blob/companion_website/dendrogram.html) shows how close the topcs are to eachother, illustrated as a hierarchy. 
