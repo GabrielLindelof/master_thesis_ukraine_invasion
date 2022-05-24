@@ -38,3 +38,30 @@ A majority of the analysis made in this thesis is contained in this notebook.
 
 ### topic_model_analysis.ipynb
 Contains visualizations and analysis of topic model. 
+
+# Packages used: 
+- Pandas
+- Pyarrow
+- Seaborn
+- Numpy
+- Matplotlib
+- BERTopic
+- HDBSCAN
+- Twarc2
+- Sci-kit learn
+- Transformers
+- sentence_transformers
+- NLTK
+- Datetime
+- SciPy
+- Statsmodels
+- Pingouin
+- WordCloud
+- Gensim
+- re
+- csv
+- docx
+- Pickle
+- Tqdm
+- os
+- json
